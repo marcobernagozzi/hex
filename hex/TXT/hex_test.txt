@@ -1,0 +1,8 @@
+PARTITA: 0
+dimensione scacchiera: 8 
+il giocatore rosso sta giocando con min-max di livello 3
+il giocatore verde sta giocando con la Y-reduction
+giocatore iniziale: verde
+numero di mosse utilizzate: 24
+ha vinto il giocatore rosso
+

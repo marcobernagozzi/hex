@@ -1,0 +1,133 @@
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 20737
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 20593, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 2118490
+il computer ha effettuato 7253 potature
+nodi terminali esaminati: 2098040, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 104 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 27599
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 27406, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 3455025
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 3430175, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 173 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 23829
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 23660, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 2106084
+il computer ha effettuato 8447 potature
+nodi terminali esaminati: 2083917, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 107 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 22379
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 22218, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 2147493
+il computer ha effettuato 7031 potature
+nodi terminali esaminati: 2125642, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 110 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 19040
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 18901, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 1576239
+il computer ha effettuato 7933 potature
+nodi terminali esaminati: 1557965, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 80 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 18090
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 17956, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 1538989
+il computer ha effettuato 7355 potature
+nodi terminali esaminati: 1521245, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 79 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 17556
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 17424, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 1668078
+il computer ha effettuato 9919 potature
+nodi terminali esaminati: 1649853, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 95 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 17030
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 16900, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 1434337
+il computer ha effettuato 10144 potature
+nodi terminali esaminati: 1417695, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 81 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 16512
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 16384, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul rosso
+nodi totali esaminati: 1277621
+il computer ha effettuato 10135 potature
+nodi terminali esaminati: 1261490, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 73 secondi per fare la mossa
+
+la potatura alpha beta e' attivata
+l'albero e' calcolato sul verde
+nodi totali esaminati: 16002
+il computer ha effettuato 0 potature
+nodi terminali esaminati: 15876, di cui 0 vincenti e 0 perdenti
+il computer ci ha messo 1 secondi per fare la mossa
+
